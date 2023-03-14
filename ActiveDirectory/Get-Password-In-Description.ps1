@@ -6,10 +6,8 @@ $adusers = Get-AdUser -filter * -Properties * | Select-object Enabled, Name, Use
 
 foreach ($user in $adusers) {
 
-	write-output "$user"
-
-	if ($user.Description -like "regnskab") {
-		write-output "True"
+	if ($user.Description -like "*password*") {
+		write-output "$user : True"
 	}
 
 }
