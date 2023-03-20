@@ -7,3 +7,4 @@ $RecentlyCreatedUsers = Get-ADUser -Filter {whenCreated -ge $When} -Properties w
 Write-Output $RecentlyCreatedUsers
 
 "$($RecentlyCreatedUsers.Count) users created recently."
+
