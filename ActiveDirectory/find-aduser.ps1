@@ -5,7 +5,7 @@
 [CmdletBinding()]
 param (
 	[Parameter(Mandatory = $true)]
-	[string]$User
+	[string]$Username
 )
 
 Import-Module ActiveDirectory
@@ -13,26 +13,23 @@ Import-Module ActiveDirectory
 $domains = @("koncern.local", "foodit.local", "butik.local")
 
 function CheckDomains {
-	
-	try {
-		$user = Get-ADUser -Server $domain -Identity $User
-	}
-	catch {
-	}
+
+	foreach ($domain in $domains) {
+		$user = Get-ADUser -Server $domain -Identity $Username -Properties * | select Name, UserPrincipalName, Enabled, LastLogonDate, WhenCreated
 	
 
 	$returnuser = [PSCustomObject]@{
-		Domain  = $Domain
-		Name    = $user.Name
-		UPN     = $user.UserPrincipalName
-		Enabled = $user.Enabled
+		Domain        = $Domain
+		Name          = $user.Name
+		UPN           = $user.UserPrincipalName
+		Enabled       = $user.Enabled
+		LastLogonDate = $user.LastLogonDate
+		Created       = $user.WhenCreated
 	}
 
 	return $returnuser
 }
-
-foreach ($domain in $domains) {
-	
-	CheckDomains
-
 }
+
+CheckDomains
+
