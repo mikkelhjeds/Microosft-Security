@@ -12,7 +12,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/overview-client-analyzer *MD
 
 https://cloudbrothers.info/en/guide-to-defender-exclusions/ *Microsoft Defender blog post*
 
-https://www.oceanleaf.ch/defender-suite/ *Microsoft Defender suite blog* \
+https://www.oceanleaf.ch/defender-suite/ *Microsoft Defender suite blog* <br/>
 
 ### Microsoft Tools
 https://idpowertoys.merill.net/ *CA Analyser*
