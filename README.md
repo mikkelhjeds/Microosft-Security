@@ -17,7 +17,7 @@ https://www.oceanleaf.ch/defender-suite/ *Microsoft Defender suite blog* <br/>
 ### Microsoft Tools
 https://idpowertoys.merill.net/ *CA Analyser*
 
-https://m365maps.com/ *Licensing map* \
+https://m365maps.com/ *Licensing map*  
 
 #### Device Forensics
 https://pestudio.en.lo4d.com/windows *PE analyzer tool*
@@ -26,7 +26,7 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/procmon *Process Monito
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer *Process Explorer*
 
-https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns *Autorun Monitor* \
+https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns *Autorun Monitor*  
 
 ## Other
 ### EMAIL & DMARC
