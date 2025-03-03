@@ -12,14 +12,12 @@ https://learn.microsoft.com/en-us/defender-endpoint/overview-client-analyzer *MD
 
 https://cloudbrothers.info/en/guide-to-defender-exclusions/ *Microsoft Defender blog post*
 
- 
-
-https://www.oceanleaf.ch/defender-suite/ *Microsoft Defender suite blog*
+https://www.oceanleaf.ch/defender-suite/ *Microsoft Defender suite blog* \
 
 ### Microsoft Tools
 https://idpowertoys.merill.net/ *CA Analyser*
 
-https://m365maps.com/ *Licensing map*
+https://m365maps.com/ *Licensing map* \
 
 #### Device Forensics
 https://pestudio.en.lo4d.com/windows *PE analyzer tool*
@@ -28,9 +26,7 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/procmon *Process Monito
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer *Process Explorer*
 
-https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns *Autorun Monitor*
-
- 
+https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns *Autorun Monitor* \
 
 ## Other
 ### EMAIL & DMARC
@@ -42,7 +38,7 @@ https://seanthegeek.net/310/spf-dmarc-federal-government-checkdmarc/ *DMARC blog
 
 https://www.mail-tester.com/ *SPAM TESTER*
 
-https://www.kitterman.com/spf/validate.html *Good SPF tester*
+https://www.kitterman.com/spf/validate.html *Good SPF tester* \
 
 ### Online IT tools
 https://it-tools.tech/
