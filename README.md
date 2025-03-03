@@ -8,6 +8,7 @@ https://it-tools.tech/
 ## Microsoft
 ### Microsoft Tools
 https://idpowertoys.merill.net/ *CA Analyser*
+https://m365maps.com/ *Licensing map*
 
 ### Group Policy Searcher
 https://gpsearch.azurewebsites.net/
