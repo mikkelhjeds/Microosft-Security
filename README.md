@@ -47,5 +47,7 @@ https://seanthegeek.net/310/spf-dmarc-federal-government-checkdmarc/ *DMARC blog
 
 https://www.mail-tester.com/ *SPAM TESTER*
 
+https://www.kitterman.com/spf/validate.html *Good SPF, DKIM tester*
+
 ### Online IT tools
 https://it-tools.tech/
