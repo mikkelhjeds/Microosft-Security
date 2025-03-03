@@ -26,7 +26,7 @@ https://pestudio.en.lo4d.com/windows *PE analyzer tool*
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/procmon *Process Monitor*
 
-https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer *Process Explorer
+https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer *Process Explorer*
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns *Autorun Monitor*
 
