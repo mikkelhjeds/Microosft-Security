@@ -1,20 +1,21 @@
 # Websites
 
-
-### Online IT tools
-https://it-tools.tech/
-
-
 ## Microsoft
+
+### Microsoft AD
+https://adsecurity.org/ *AD Security guides*
+
+https://gpsearch.azurewebsites.net/ *Group Policy Object Searcher*
+
+### Microsoft Defender Security
+https://learn.microsoft.com/en-us/defender-endpoint/overview-client-analyzer *MDE Client analyzer*
+
+https://cloudbrothers.info/en/guide-to-defender-exclusions/ *Microsoft Defender blog post*
+
 ### Microsoft Tools
 https://idpowertoys.merill.net/ *CA Analyser*
 
 https://m365maps.com/ *Licensing map*
-
-### Group Policy Searcher
-https://gpsearch.azurewebsites.net/
-
-
 
 
 
@@ -31,3 +32,5 @@ https://seanthegeek.net/310/spf-dmarc-federal-government-checkdmarc/ *DMARC blog
 
 https://www.mail-tester.com/ *SPAM TESTER*
 
+### Online IT tools
+https://it-tools.tech/
