@@ -14,6 +14,9 @@ https://cloudbrothers.info/en/guide-to-defender-exclusions/ *Microsoft Defender 
 
 https://www.oceanleaf.ch/defender-suite/ *Microsoft Defender suite blog* <br/>
 
+### Microsoft Network
+https://anthonyfontanez.com/index.php/2021/09/16/windows-firewall-the-series/ *Windows firewall setup guide*
+
 ### Microsoft Tools
 https://idpowertoys.merill.net/ *CA Analyser*
 
