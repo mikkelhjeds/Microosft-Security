@@ -45,3 +45,4 @@ https://www.kitterman.com/spf/validate.html *Good SPF tester*
 
 ### Online IT tools
 https://it-tools.tech/
+https://crt.sh *Certificat scanner*
